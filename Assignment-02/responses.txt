@@ -1,0 +1,4 @@
+Bits travel through the internet. Processes and speeds to sending these bits have improved over generations. This speed is called the latency and is measured by the bit rate. Bits can be sent by electricity, light, and radio. Radio is how we send information wirelessly. Information gets send in packets through indirect paths.
+Domain Name System correlates with the IP address. Computers use DNS to look up the domain name that matches the correlated IP address.
+Cookies are a way for your web browser remember who you are. When using login information on a website, that information is stored using a cookie ID. Cookies are IDs.
+URL: Uniform Resource Locator;  Protocol, Domain, Path
