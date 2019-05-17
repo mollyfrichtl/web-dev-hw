@@ -11,4 +11,4 @@ I am taking this class because it counts to towards my "outside the business sch
 
 [My Responses](./responses.txt)
 
-[My Screenshot](./images/A2atomscreenshot2.png)
+![My Screenshot](./images/A2atomscreenshot2.png)
