@@ -1,0 +1,3 @@
+Every time I am on a clothing website I always see sign up forms. Sometimes they offer a coupon or special offers for first time subscribers. Most of the time the site just put you on an email list. This is so the company can keep showing themselves to you so you always have an incentive to buy something. It often makes ads pop up even when I am on a different site.
+Text can be used when needing to enter a password to get onto a site. Selection can be used when taking a multiple choice survey online. Buttons can be used when needing to submit an answer to said survey. These might be necessary as pop-ups on a site.
+This cycle I read through. Then went back to the top and entered everything into Atom. It is getting easier every time! 
