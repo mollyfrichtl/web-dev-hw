@@ -1,0 +1,26 @@
+/* This is my own CSS! */
+body {
+   background-color: rgb(253, 246, 227);
+   font-family: 'Ariel ;
+   .text-box {
+    background-color: rgb(42, 161, 152);
+}
+
+section {
+   width: 300px;
+   background-color: rgb(181, 137, 0);
+   border-radius: 25px;
+   padding: 20px;
+   padding-bottom: 40px;
+   margin: auto;
+   margin-bottom: -170px;
+}
+
+.styled {
+  /*Style target! */
+    color: rgb(42, 161, 152);
+}
+p.styled {
+  /* Paragraph styles */
+  border: 1px solid white;
+}
