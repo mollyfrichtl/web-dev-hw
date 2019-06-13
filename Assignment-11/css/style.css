@@ -1,0 +1,23 @@
+.parent-container-04 {
+   z-index: -2;
+   height: 200px;
+   width: 200px;
+   position: fixed;
+   top: 4em;
+   left: 50px;
+   background-color: red;
+   padding: 1em 2em 3em 4em;
+}
+.child-container-04 {
+   margin-left: 2em;
+   margin-right: 2em;
+   margin-top: 2em;
+   margin-bottom: 2em;
+   max-width: 8em;
+   text-align: center;
+   padding: 2em;
+   color: gold;
+ }
+ .display-inline {
+     display: inline-block;
+}
