@@ -1,0 +1,3 @@
+System fonts are the fonts that come on your computer. Web fonts are found on the web but not compatible to all computers and browsers. Web-safe fonts are found on the web and most likely compatible with all computers and browsers.
+Fallback fonts are used to make sure your work gets a font applied to it. If you accidentally use a web font that isn't applicable with your computer, fallback fonts are your backup fonts.
+This is still really hard for me. I see the examples in the walkthrough but I can never tell what's standard and what's customized. I tried to go step by step but I felt like I still jumped around just to try to cover all my bases. Even then, I still don't know if I did. My biggest struggle right now is understanding css and now the fonts. 

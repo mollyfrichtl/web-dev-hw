@@ -1,0 +1,20 @@
+/* This is the file, "style.css." */
+h1 {
+   color: white;
+   size: 3em;
+}
+.one {
+   font-family: 'Playfair Display', serif;
+   font-weight: normal;
+}
+.two {
+   font-family: 'Playfair Display', sans-serif;
+   font-weight: normal;
+   font-style: italic;
+}
+#heading-1 {
+    font-family: 'Comic Sans MS', 'Comic Sans', Trebuchet MS, Verdana, sans-serif;
+}
+#heading-2 {
+    font-family: 'Garamond MS', 'Gararmond', Trebuchet, Verdana, serif;
+}
