@@ -1,0 +1,32 @@
+/*-----------------------
+| CSS for General Styling |
+ ------------------------*/
+
+ /*  SITE-WIDE ELEMENTS: */
+ body {
+   background-color: white;
+   background-repeat: repeat-x;
+   background-attachment: fixed;
+ }
+ h1, span {
+   margin: 0;
+   font-family: 'Pacifico', sans-serif;
+   color: red;
+   text-align: center;
+ }
+ h2 {
+   font-family: 'Arvo-B', Georgia, serif;
+   font-size: 2 em;
+ }
+ .button:active {
+   background-color: red;
+   border-color: #666 #666 #666 #666;
+   border-width: 12px 10px 10px 12px
+   border-style: dashed;
+ }
+ .button h3 {
+   color: lime green;
+   text-decoration: underline overline;
+   text-decoration-color: lime green;
+   text-decoration-style: dashed;
+ }
