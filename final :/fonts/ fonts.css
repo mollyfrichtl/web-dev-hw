@@ -1,0 +1,14 @@
+/* These are my fonts */
+
+@import {
+  font-family: 'Open Sans', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+  font-weight: normal;
+  font-style: normal;
+}
+@import {
+  font-family: 'Montserrat', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap');
+  font-weight: normal;
+  font-style: normal;
+}
