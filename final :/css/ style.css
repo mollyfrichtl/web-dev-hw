@@ -13,3 +13,15 @@ p4, p5, p6, p7 {
    font-size: 12pt;
    position: center;
 }
+.behind-text {
+   background-image:"./images/musicnotes.png";
+}
+.padded {
+   background-color: white;
+   padding: 20px;
+}
+img {
+  width:450px;
+  length:5000px;
+  height:100px;
+  float: center;
